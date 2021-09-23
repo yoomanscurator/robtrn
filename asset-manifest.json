@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/robtrn/static/css/main.653b6b40.chunk.css",
+    "main.js": "/robtrn/static/js/main.a7f83e01.chunk.js",
+    "main.js.map": "/robtrn/static/js/main.a7f83e01.chunk.js.map",
+    "runtime-main.js": "/robtrn/static/js/runtime-main.7d35006d.js",
+    "runtime-main.js.map": "/robtrn/static/js/runtime-main.7d35006d.js.map",
+    "static/js/2.5dd32423.chunk.js": "/robtrn/static/js/2.5dd32423.chunk.js",
+    "static/js/2.5dd32423.chunk.js.map": "/robtrn/static/js/2.5dd32423.chunk.js.map",
+    "static/js/3.a64233a7.chunk.js": "/robtrn/static/js/3.a64233a7.chunk.js",
+    "static/js/3.a64233a7.chunk.js.map": "/robtrn/static/js/3.a64233a7.chunk.js.map",
+    "index.html": "/robtrn/index.html",
+    "static/css/main.653b6b40.chunk.css.map": "/robtrn/static/css/main.653b6b40.chunk.css.map",
+    "static/js/2.5dd32423.chunk.js.LICENSE.txt": "/robtrn/static/js/2.5dd32423.chunk.js.LICENSE.txt",
+    "static/media/1.75f03515.png": "/robtrn/static/media/1.75f03515.png",
+    "static/media/reset.css": "/robtrn/static/media/PressStart2P-Regular.f2341734.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7d35006d.js",
+    "static/js/2.5dd32423.chunk.js",
+    "static/css/main.653b6b40.chunk.css",
+    "static/js/main.a7f83e01.chunk.js"
+  ]
+}
